@@ -44,7 +44,7 @@ Personal Finance Prediction System/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-finance-prediction-system.git
+git clone https://github.com/Sanjeevkulkarni27/personal-finance-prediction-system.git
 cd personal-finance-prediction-system
 ```
 
