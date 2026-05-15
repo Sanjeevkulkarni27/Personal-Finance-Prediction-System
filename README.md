@@ -1,5 +1,10 @@
 # 💹 Personal Finance Prediction System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://personal-finance-prediction-system.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeevkulkarni27/Personal-Finance-Prediction-System)
+
+🔗 **Live App:** https://personal-finance-prediction-system.streamlit.app/
+
 A machine learning web application that predicts whether a financial transaction is **Income** or **Expense** using a trained Random Forest classifier.
 
 ---
@@ -83,9 +88,11 @@ The app opens automatically at **http://localhost:8501**
 
 ---
 
-## 📸 Screenshot
+## 📸 Live Demo
 
-> Dark themed, 3-panel layout: Transaction Inputs · Prediction Result · History
+🌐 **[https://personal-finance-prediction-system.streamlit.app/](https://personal-finance-prediction-system.streamlit.app/)**
+
+> Dark themed layout: Transaction Inputs · Prediction Result · Prediction History — all side by side.
 
 ---
 
