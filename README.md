@@ -92,6 +92,8 @@ The app opens automatically at **http://localhost:8501**
 
 🌐 **[https://personal-finance-prediction-system.streamlit.app/](https://personal-finance-prediction-system.streamlit.app/)**
 
+![Personal Finance Prediction System](screenshot.png)
+
 > Dark themed layout: Transaction Inputs · Prediction Result · Prediction History — all side by side.
 
 ---
